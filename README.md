@@ -1,4 +1,3 @@
-## Olá! Eu sou o Leandro Rodrigues 
 <a href="https://github.com/rcleandro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rcleandro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rcleandro&layout=compact&langs_count=8&theme=dracula"/>
